@@ -49,10 +49,6 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-#gift-img-cheers {
-    height: 200px;
-}
-
 .gift-img {
     margin: 20px auto;
     max-width: 500px;
@@ -83,11 +79,8 @@ h1, h2, h3, h4, p {
     background-image: url("images/cheers.gif");
 }
 
-a {
-    color: white;
-}
 
 @media only screen and (max-width: 600px) {
-    body {
+h2 {
     font-size: 20px;
   }
